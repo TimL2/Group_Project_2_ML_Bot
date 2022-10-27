@@ -14,7 +14,7 @@ Project 2 Submission - October 2022
 
 ## Data Preparation & Model Training
 - Data Preparation:
-  - Determine varaibles (X data) and the target (y)
+  - Determine variables (X data) and the target (y)
   - Is the data balanced?
   - Train data using different models
 - Model Evaluation
