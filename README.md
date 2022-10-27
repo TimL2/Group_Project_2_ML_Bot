@@ -30,7 +30,7 @@ Project 2 Submission - October 2022
 
 - Three machine learning models were utilized to train and predict the trading data sourced from [Alpaca API](https://paper-api.alpaca.markets). The target was determined to be the stock price equaling the entry price plus 3 times the Average True Range(ATR): '1'. Should the price not fall within this range, then the target was not met: '-1'. Support Vector Machine(SVM) and Decision Tree models learnt in class were applied to this data. We used Stochastic Gradient Descent (SGD) for the new model as stipulated in the project requirements. 
 
-- The data was prepared by ascertaining performance indicators and the target. The data was then scaled and balanced to ensure the data is balanced before training. The best perfoming model from the evaluations is then selected for predictions.
+- The data was prepared by ascertaining performance indicators and the target. The data was then scaled and balanced to optimize model perfomance. The best perfoming model from the evaluations is then selected for predictions.
 
 ## Technologies
 - Jupyter lab
