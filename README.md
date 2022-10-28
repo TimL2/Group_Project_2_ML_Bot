@@ -45,4 +45,4 @@ Project 2 Submission - October 2022
 
 
 ## Outcomes
-- For the initially selected stocks, the SGD model performed the best. However, as this is a dynamic bot, this may change depending on the selected security and the time periods among other factors that the user may determine to apply.
+- For the initially selected stocks, the SVM model performed the best. However, as this is a dynamic bot, this may change depending on the selected security and the time periods among other factors that the user may determine to apply.
