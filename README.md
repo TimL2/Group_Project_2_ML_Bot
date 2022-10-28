@@ -1,4 +1,5 @@
 # ML Trading Bot
+![image](https://user-images.githubusercontent.com/107276527/198450795-851e7b0b-1e82-4db5-aa0c-deb53e1f2d69.png)
 
 Project 2 Submission - October 2022
 
